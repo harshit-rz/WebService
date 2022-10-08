@@ -9,13 +9,7 @@ namespace WebService.WebAPIService
     public  class EmployeeOperation
     {
 
-        private List<Employee> _employeeList = new List<Employee>()
-        {
-            new Employee()
-            {
-                Id="1",Name="API"
-            }
-        };
+        private List<Employee> _employeeList = new List<Employee>();
         public List<Employee> AddEmployee(Employee employee)
         {
             _employeeList.Add(employee);

@@ -5998,11 +5998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebServiceTest\\WebServiceTest.csproj",
+      "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebServiceTest\\WebServiceTest.csproj",
       "projectName": "WebServiceTest",
-      "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebServiceTest\\WebServiceTest.csproj",
+      "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebServiceTest\\WebServiceTest.csproj",
       "packagesPath": "C:\\Users\\GoTiwari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebServiceTest\\obj\\",
+      "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebServiceTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GoTiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6019,8 +6019,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj": {
-              "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj"
+            "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj": {
+              "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj"
             }
           }
         }

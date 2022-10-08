@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj": {}
+    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj": {
+    "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj",
+        "projectUniqueName": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj",
         "projectName": "WebService",
-        "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\WebService.csproj",
+        "projectPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\WebService.csproj",
         "packagesPath": "C:\\Users\\GoTiwari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\Codejam\\WebService\\obj\\",
+        "outputPath": "C:\\Users\\GoTiwari\\OneDrive - Affinion Group\\Desktop\\WebService\\WebService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GoTiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",

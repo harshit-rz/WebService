@@ -28,9 +28,9 @@ namespace WebServiceTest
 
             var httpRs = app.Handle(httprq);
             var ActualEmployeeList = JsonSerializer.Deserialize(httpRs.Content, typeof(List<Employee>)) as List<Employee>;
-            Assert.Equal(ActualEmployeeList.Count, 2);
-            Assert.Equal(ActualEmployeeList[1].Id, employee.Id);
-            Assert.Equal(ActualEmployeeList[1].Name, employee.Name);
+            Assert.Equal(ActualEmployeeList.Count, 1);
+            Assert.Equal(ActualEmployeeList[0].Id, employee.Id);
+            Assert.Equal(ActualEmployeeList[0].Name, employee.Name);
         }
 
         [Fact]
